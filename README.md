@@ -1,21 +1,25 @@
-# Coursera AI for Medicine Specialization (offered by deeplearning.ai)
+# AI for Medicine Professional Certificate
+## Offered by DeepLearning.AI through Coursera
 
-Programming assignments, labs and quizzes from all courses in the Coursera [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine) offered by `deeplearning.ai`.
+All work in this repository was part of the courses included in the AI for Medicine Professional Certificate, found here: https://www.coursera.org/specializations/ai-for-medicine
 
-**Instructors**: `Pranav Rajpurkar`, `Bora Uyumazturk`, `Amirhossein Kiani` and `Eddy Shyu`.
+The exercises in this repository were completed by Frances Koback for this course. Some of the code in the python notebooks have been altered to work on an updated local python 3.6 environment.
 
-## Specialization Info
+**Instructors of This Course**: `Pranav Rajpurkar, Harvard University`, `Bora Uyumazturk, Machine Learning Engineer, Viaduct`, `Amirhossein Kiani, Product Manager, Google Health` and `Eddy Shyu, Project Lead, DeepLearning.AI`.
+
+# About this Course
+"AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. This Specialization will give you practical experience in applying machine learning to concrete problems in medicine.
+
+Medical treatment may impact patients differently based on their existing health conditions. In this third course, you’ll recommend treatments more suited to individual patients using data from randomized control trials. In the second week, you’ll apply machine learning interpretation methods to explain the decision-making of complex machine learning models. Finally, you’ll use natural language entity extraction and question-answering methods to automate the task of labeling medical datasets.
+
+These courses go beyond the foundations of deep learning to teach you the nuances in applying AI to medical use cases. If you are new to deep learning or want to get a deeper foundation of how neural networks work, we recommend that you take the Deep Learning Specialization.
 
 AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. In this Specialization, you’ll gain practical experience applying machine learning to concrete problems in medicine. You’ll learn how to:
 
 - Diagnose diseases from X-Rays and 3D MRI brain images
 - Predict patient survival rates more accurately using tree-based models
 - Estimate treatment effects on patients using data from randomized trials
-- Automate the task of labeling medical datasets using natural language processing
-
-## Credits
-
-This repo contains my work for this specialization. The code base, quiz questions and diagrams are taken from the [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine), unless specified otherwise.
+- Automate the task of labeling medical datasets using natural language processing"
 
 ## Programming Assignments
 
