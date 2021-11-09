@@ -241,4 +241,3 @@ Medical treatment may impact patients differently based on their existing health
 ## Credits
 
 All work on the code contained in these folders are my own, please do not copy and paste. 
-The formatting of this readme file came from https://github.com/amanchadha/coursera-ai-for-medicine-specialization
