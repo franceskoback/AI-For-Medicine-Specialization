@@ -238,6 +238,7 @@ Medical treatment may impact patients differently based on their existing health
 - Shapley Values
 - Interpret random forest models
 
-## Disclaimer
+## Credits
 
-I recognize the hard time people spend on building intuition, understanding new concepts and debugging assignments. The solutions uploaded here are **only for reference**. They are meant to unblock you if you get stuck somewhere. Please do not copy any part of the code as-is (the programming assignments are fairly easy if you read the instructions carefully). Similarly, try out the quizzes yourself before you refer to the quiz solutions.
+All work on the code contained in these folders are my own, please do not copy and paste. 
+The formatting of this readme file came from https://github.com/amanchadha/coursera-ai-for-medicine-specialization
