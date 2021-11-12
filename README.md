@@ -1,5 +1,5 @@
 # AI for Medicine Professional Certificate
-## Offered by DeepLearning.AI through Coursera
+## Offered by DeepLearning.AI
 
 All work in this repository was part of the courses included in the AI for Medicine Professional Certificate, found here: https://www.coursera.org/specializations/ai-for-medicine
 
