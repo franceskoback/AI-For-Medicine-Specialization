@@ -27,7 +27,7 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
   
   - **Week 1**
     - Assignment: 
-      - [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Diagnosis/Week_1/Chest_X-Ray_Medical_Diagnosis_with_Deep_Learning.ipynb)
+      - [Chest X-Ray Medical Diagnosis with Deep Learning](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Diagnosis/Week_1/Chest_X-Ray_Medical_Diagnosis_with_Deep_Learning.ipynb)
     - Labs: 
       - [Data Exploration & Image Pre-Processing](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%201/C1W1_L1_Data%20Exploration%20%26%20Image%20Pre-Processing.ipynb)
       - [Counting labels and weighted loss function](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%201/C1W1_L2_Counting%20labels%20and%20weighted%20loss%20function.ipynb)
