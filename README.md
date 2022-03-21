@@ -54,7 +54,7 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
       - [Estimating Treatment Effect Using Machine Learning](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Treatment/Week_1/Estimating_Treatment_Effect_Using_Machine_Learning.ipynb)
    
   - **Week 2** 
-      - [Natural Language Entity Extraction](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Treatment/Week_3/Model_Interpretation_Methods.ipynb)
+      - [Natural Language Entity Extraction](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/081713100df4aca44e56fe0e459f5d4968f612e7/AI_For_Medical_Treatment/Week_2/Natural_Language_Entity_Extraction.ipynb)
  
   - **Week 3** 
       - [ML Interpretation](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Treatment/Week_3/Model_Interpretation_Methods.ipynb)
