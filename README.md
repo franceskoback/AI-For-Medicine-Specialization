@@ -31,40 +31,40 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
     
   - **Week 2**
     - Assignment: 
-      - [Evaluation of Diagnostic Models](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%202/C1W2_A1_Evaluation%20of%20Diagnostic%20Models.ipynb)  
+      - [Evaluation of Diagnostic Models](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Diagnosis/Week_2/Evaluation_of_Diagnostic_Models.ipynb)  
   - **Week 3**
     - Assignment: 
-      - [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1M3_A1_Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging.ipynb)
+      - [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Diagnosis/Week_3/Brain_Tumor_Auto-Segmentation_for_Magnetic_Resonance_Imaging_(MRI).ipynb)
      
 
 ### Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
   
   - **Week 1**
     - Assignment: 
-      - [Diagnosing Diseases using Linear Risk Models](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%201/C2W1_A1_Build%20and%20Evaluate%20a%20Linear%20Risk%20model.ipynb)
+      - [Diagnosing Diseases using Linear Risk Models](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Prognosis/Week_1/Build_and_Evaluate_a_Linear_Risk_Model.ipynb)
    
   - **Week 2** 
     - Assignment: 
-      - [Risk Models Using Machine Learning](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%202/C2W2_A1_Risk%20Models%20Using%20Tree-based%20Models.ipynb)
+      - [Risk Models Using Machine Learning](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Prognosis/Week_2/Risk_Models_Using_Tree-based_Models.ipynb)
   
   - **Week 3** 
     - Assignment: 
-      - [Non-Parametric Estimators for Survival Analysis](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%203/C2W3_A1_Survival%20Estimates%20that%20Varies%20with%20Time.ipynb)
+      - [Non-Parametric Estimators for Survival Analysis](https://nbviewer.jupyter.org/github/https://github.com/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Prognosis/Week_3/Survival_Estimates_that_Vary_with_Time.ipynb)
 
   - **Week 4** 
     - Assignment: 
-      - [Cox Proportional Hazards and Random Survival Forests](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%204/C2W4_A1_Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
+      - [Cox Proportional Hazards and Random Survival Forests](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Prognosis/Week_4/Cox_Proportional_Hazards_and_Random_Survival_Forests.ipynb)
  
 
 ### Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
   - **Week 1** 
-      - [Estimating Treatment Effect Using Machine Learning](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%201/C3W1_A1_Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.ipynb)
+      - [Estimating Treatment Effect Using Machine Learning](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Treatment/Week_1/Estimating_Treatment_Effect_Using_Machine_Learning.ipynb)
    
   - **Week 2** 
-      - [Natural Language Entity Extraction](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Diagnosis/Week_2/Evaluation_of_Diagnostic_Models.ipynb)
+      - [Natural Language Entity Extraction](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Treatment/Week_3/Model_Interpretation_Methods.ipynb)
  
   - **Week 3** 
-      - [ML Interpretation](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Diagnosis/Week_3/Brain_Tumor_Auto-Segmentation_for_Magnetic_Resonance_Imaging_(MRI).ipynb)
+      - [ML Interpretation](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Treatment/Week_3/Model_Interpretation_Methods.ipynb)
 
 ## Syllabus
 
