@@ -26,33 +26,26 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
 ### Course 1: [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)
   
   - **Week 1**
-    - Assignment: 
       - [Chest X-Ray Medical Diagnosis with Deep Learning](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Diagnosis/Week_1/Chest_X-Ray_Medical_Diagnosis_with_Deep_Learning.ipynb)
     
   - **Week 2**
-    - Assignment: 
       - [Evaluation of Diagnostic Models](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Diagnosis/Week_2/Evaluation_of_Diagnostic_Models.ipynb)  
   - **Week 3**
-    - Assignment: 
       - [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Diagnosis/Week_3/Brain_Tumor_Auto-Segmentation_for_Magnetic_Resonance_Imaging_(MRI).ipynb)
      
 
 ### Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
   
   - **Week 1**
-    - Assignment: 
       - [Diagnosing Diseases using Linear Risk Models](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Prognosis/Week_1/Build_and_Evaluate_a_Linear_Risk_Model.ipynb)
    
   - **Week 2** 
-    - Assignment: 
       - [Risk Models Using Machine Learning](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Prognosis/Week_2/Risk_Models_Using_Tree-based_Models.ipynb)
   
   - **Week 3** 
-    - Assignment: 
       - [Non-Parametric Estimators for Survival Analysis](https://nbviewer.jupyter.org/github/https://github.com/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Prognosis/Week_3/Survival_Estimates_that_Vary_with_Time.ipynb)
 
   - **Week 4** 
-    - Assignment: 
       - [Cox Proportional Hazards and Random Survival Forests](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Prognosis/Week_4/Cox_Proportional_Hazards_and_Random_Survival_Forests.ipynb)
  
 
@@ -67,6 +60,7 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
       - [ML Interpretation](https://nbviewer.jupyter.org/github/franceskoback/AI-For-Medicine-Specialization/blob/main/AI_For_Medical_Treatment/Week_3/Model_Interpretation_Methods.ipynb)
 
 ## Syllabus
+Text here is quoted from Coursera's syllabus for this course.
 
 ### Course 1: AI For Medical Diagnosis
 
